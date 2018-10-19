@@ -1,0 +1,11 @@
+body {
+  background: #333;
+}
+
+.jumbotron {
+  height: 80vh;
+}
+
+.about {
+  color: #fff;
+}
